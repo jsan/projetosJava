@@ -1,3 +1,1 @@
- Spring-boot Maven - H2 e Mysql (Local/prod )
- REST Angularjs Freemarker(.ftl) Jquery bootstrap.css (MySql  - JPA manipula o objeto direto ao db)
-A resposta do controller é em objetos ou entities no formato Json para o frontend JavaScript c/ Angular
+...
